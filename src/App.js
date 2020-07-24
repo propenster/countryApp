@@ -25,9 +25,6 @@ return (
   <Table countryData={countries} />
 </div>
 
-
-
-
 )
 
 }
